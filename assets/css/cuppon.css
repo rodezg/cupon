@@ -1,0 +1,42 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.logo_blanco{
+    width: 86px;
+}
+.fondo_verde{
+    background-color: #28A745;   
+}
+.button{
+    width: 59px;
+    height: 42px;
+}
+/* secion principal */
+
+.color_precio1{
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 300;
+    color: #707070;
+}
+.color_precio2{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 500;
+    color:#28A745;
+}
+.card-imagenes{
+    width: 18rem
+}
+.imagenes{
+    width: 278px;
+    height: 180px;
+    display: block;
+    
+    
+}
+/* pie depagina */
+
+.img_footer{
+    width: 82px;
+}
